@@ -11,7 +11,7 @@ public class MinhaClasse {
 
         String nomeCompleto = NomeCompleto(primeiroNome, segundoNome);
 
-        System.out.print(nomeCompleto);
+        System.out.println(nomeCompleto);
     }
 
     public static String NomeCompleto(String primeiroNome, String segundoNome) {
