@@ -12,5 +12,10 @@ public class BoletimEstudantil {
             System.out.print("APROVADO");
         }
 
+        Boolean exist = false;
+        // Operador ternario
+        String result = exist ? "yes" : "no";
+
+        System.out.println(result);
     }
 }
