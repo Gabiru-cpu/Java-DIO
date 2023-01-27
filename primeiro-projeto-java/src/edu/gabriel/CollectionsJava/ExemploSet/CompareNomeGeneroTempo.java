@@ -7,7 +7,7 @@ public class CompareNomeGeneroTempo implements Comparator<Serie> {
     @Override
     public int compare(Serie s1, Serie s2) {
 
-        int nome = s1.getGenero().compareTo(s2.getGenero());
+        int nome = s1.getName().compareTo(s2.getName());
 
         if (nome != 0)
             return nome;
