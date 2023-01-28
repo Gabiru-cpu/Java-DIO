@@ -1,4 +1,4 @@
-package edu.gabriel.CollectionsJava.ListaDeGatos;
+package edu.gabriel.CollectionsJava.ExemploList.ListaDeGatos;
 
 import java.util.Comparator;
 

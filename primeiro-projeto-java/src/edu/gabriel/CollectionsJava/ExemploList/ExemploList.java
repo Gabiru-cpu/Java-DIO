@@ -1,4 +1,4 @@
-package edu.gabriel.CollectionsJava;
+package edu.gabriel.CollectionsJava.ExemploList;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

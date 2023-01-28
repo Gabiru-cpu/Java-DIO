@@ -1,4 +1,4 @@
-package edu.gabriel.CollectionsJava.ListaTemperatura;
+package edu.gabriel.CollectionsJava.ExemploList.ListaTemperatura;
 
 import java.util.Iterator;
 import java.util.ArrayList;

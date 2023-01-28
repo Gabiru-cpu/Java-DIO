@@ -1,4 +1,4 @@
-package edu.gabriel.CollectionsJava.ListaCrime;
+package edu.gabriel.CollectionsJava.ExemploList.ListaCrime;
 
 import java.util.Iterator;
 import java.util.ArrayList;
