@@ -22,9 +22,9 @@ public class LinguagemFavorita {
 
         Set<Linguagens> minhasLinguagens = new LinkedHashSet<Linguagens>() {
             {
-                add(new Linguagens("Java", "intellij", 1991));
+                add(new Linguagens("Java", "Intellij", 1991));
                 add(new Linguagens("C#", "Visual Studio", 2000));
-                add(new Linguagens("Python", "Pycharm", 1991));
+                add(new Linguagens("JPython", "Pycharm", 1991));
             }
         };
 
